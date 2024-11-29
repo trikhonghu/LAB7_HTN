@@ -1,0 +1,16 @@
+../Core/Src/snake.c:24:6:draw_snake	1
+../Core/Src/snake.c:28:6:draw_food	1
+../Core/Src/snake.c:32:6:draw_head	1
+../Core/Src/snake.c:36:6:draw_wall	1
+../Core/Src/snake.c:40:6:clear_block	1
+../Core/Src/snake.c:44:6:update_grid	7
+../Core/Src/snake.c:66:6:delete_wall	4
+../Core/Src/snake.c:76:6:init_grid	3
+../Core/Src/snake.c:84:6:move_snake	4
+../Core/Src/snake.c:111:6:re_init	1
+../Core/Src/snake.c:130:6:spawn_food	2
+../Core/Src/snake.c:140:6:spawn_wall	24
+../Core/Src/snake.c:185:5:rand_no	1
+../Core/Src/snake.c:190:6:check_collision	8
+../Core/Src/snake.c:209:6:wait_check	9
+../Core/Src/snake.c:242:6:check_food	4
